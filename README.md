@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Zakaria SIAD 👋
 
-<!--
-**zakariasiad/zakariasiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Building PHYX — Open-Source Physical AI
 
-Here are some ideas to get you started:
+I'm building **PHYX**, an open-source Physical AI framework designed to connect
+artificial intelligence with intelligent robots and autonomous machines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **From AI reasoning to physical action.**
+
+---
+
+## 🚀 What I'm Building
+
+### PHYX
+
+PHYX aims to provide an open foundation for building intelligent physical systems.
+
+```text
+Perception
+    ↓
+World Understanding
+    ↓
+Task
+    ↓
+Planning
+    ↓
+Safety
+    ↓
+Execution
+    ↓
+Robot
